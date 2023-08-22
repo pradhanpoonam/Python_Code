@@ -1,3 +1,4 @@
+#Adding comments
 print("Let us calculate your BMI")
 height = float(input("Enter your height in metres\n"))
 weight = float(input("Enter your weight in KG\n"))
